@@ -1,1 +1,0 @@
-# DynamicJ.github.io
