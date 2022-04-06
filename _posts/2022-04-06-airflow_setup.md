@@ -1,5 +1,5 @@
 ---
-title:  "vagrant k8s"
+title:  "airflow 셋업"
 header:
   teaser: "/assets/images/500x300.png"
 categories: 
@@ -14,5 +14,5 @@ toc_label: "contents"
 ---
 
 
-vagrant를 활용한 로컬PC내 k8s cluster환경구축
+airflow 셋업
 =================================================
