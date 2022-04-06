@@ -11,6 +11,7 @@ tags:
   - configparser
 ---
 
+
 configuration파일 reader   
 json보다 가독성이 좋음.   
 개발자아닌사람이 세팅하기에 부담이 없음.   
