@@ -18,7 +18,7 @@ intro:
               능동적으로 일하는 것을 좋아합니다"
 feature_row:
   - alt: "placeholder image 1"
-    title: "###Micro Service Architecture"
+    title: "Micro Service Architecture"
     excerpt: ".Python, FastAPI, SQLAlchemy <br>
               .k8s, docker-compose <br> 
               .Redis, Kafka."
