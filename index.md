@@ -16,8 +16,11 @@ intro:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Micro Service Architecture"
+    excerpt: ".Python, FastAPI, SQLAlchemy  
+.k8s, docker-compose <- CKAD  
+.Redis, Kafka  
+."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
@@ -57,12 +60,12 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
----
+
 @Main job:
 - Kubernetes cluster 환경 기반 데이터 파이프라인 플랫폼 개발 및   
 제조센터내 설비로그관련 데이터파이프라인 개발과 데이터엔지니어링 업무를 하고 있습니다.
-- MLOps 커리어를 지향합니다. 
----
+- MLOps에 관심이 있습니다.
+
 
 {% include feature_row %}
 
