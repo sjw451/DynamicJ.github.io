@@ -42,7 +42,7 @@ helmchart방식으로 사용
 
 airflow helmchart 
 ---
-셋업을 위한 [Link to a page]({% link https://github.com/bitnami/charts/tree/master/bitnami/airflow %}) 설정필요하다.
+셋업을 위한 [values.yaml]](https://github.com/bitnami/charts/tree/master/bitnami/airflow ) 설정필요하다.
 airflow helmchart에는
 다양한 service, configmap, deployment,statefulset 등 구성요소
 
