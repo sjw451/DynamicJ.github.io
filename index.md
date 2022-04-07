@@ -41,9 +41,9 @@ feature_row2:
   - image_path: /assets/images/cakd.JPG
     alt: "placeholder image 2"
     title: "k8s 개발환경구축 / 사내 offline환경 이미지 빌드/배포"
-    excerpt: '-alpine기반 사내개발package build된 이미지배포<br>  
-              -[k8s 로컬개발환경 구축](https://sjw451.github.io/sw/vagrant_k8s/)<br>
-              -CKAD 자격증 취득(22년 1월)'
+    excerpt: 'alpine기반 사내개발package build된 이미지배포<br>  
+              [k8s 로컬개발환경 구축](https://sjw451.github.io/sw/vagrant_k8s/)<br>
+              CKAD 자격증 취득(22년 1월)'
 
 feature_row3:
   - image_path: /assets/images/airflow_logo.png
@@ -66,9 +66,8 @@ feature_row5:
     alt: "placeholder image3"
     title: "팀 workdiary 데이터 api 개발"
     excerpt: '-팀 800여명이 매일 작성하는 Confluence workdiary<br>
-              -부서간 협업강화를 위해 html 크롤링 및 API를 통한 제공<br>
-              -사람<br>
-              -실시간 운영 데이터수집(csv,xml 등)하여 0.01초대 오차'
+              -부서간 협업강화를 위해 html 크롤링 및 API를 통한 제공(json)<br>
+              -confluence 내 키워드 검색 제공<br>'
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -77,11 +76,8 @@ feature_row5:
 @MAIN JOB:
 - k8s 기반 데이터 파이프라인 서비스 개발/운영 
 - 설비로그 관련  데이터엔지니어링
-- MLOps에 관심이 있습니다.
-<br>
-<br>
-<br>
-<br>  
+- MLOps에 관심이 있습니다.  
+
 @SKILL:
 {% include feature_row %}
 
