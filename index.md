@@ -30,10 +30,11 @@ feature_row:
               .ElasticSearch<br>
               .SQL(oracle, mssql)<br>"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+  - alt: "placeholder image 2"
+    title: "k8s 개발환경구축 / 사내 offline환경 이미지 빌드/배포"
+    excerpt: "- alpine기반 사내개발package build된 이미지배포<br>
+              - k8s 로컬개발환경 구축(vagrant, virtual box, 각종 helmchart 배포)<br>
+              - CKAD 자격증 취득(22년 1월)"
 
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
