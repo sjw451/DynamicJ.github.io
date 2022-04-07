@@ -27,15 +27,15 @@ feature_row:
               .MinIO, Airflow, ELK, Grafana<br>
               .사내 Data Science - Advanced"
   - alt: "DB"
-    title: "Data engineering"
+    title: "DB"
     excerpt: ".mongoDB<br>
               .ElasticSearch<br>
-              .SQL(oracle, mssql)<br>"
-  - alt: "DB"
-    title: "Data engineering"
-    excerpt: ".mongoDB<br>
-              .ElasticSearch<br>
-              .SQL(oracle, mssql)<br>"
+              .SQL(oracle, mssql)"
+  - alt: "etc"
+    title: "etc"
+    excerpt: ".linux<br>
+              .jira, confluence, bitbucket<br>
+              .spotfire"
 feature_row2:
   - alt: "placeholder image 2"
     title: "k8s 개발환경구축 / 사내 offline환경 이미지 빌드/배포"
