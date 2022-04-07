@@ -79,9 +79,9 @@ feature_row5:
 - k8s 기반 데이터 파이프라인 서비스 개발/운영 
 - 설비로그 관련  데이터엔지니어링
 - MLOps에 관심이 있습니다.  
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
 @skill
 {% include feature_row %}
