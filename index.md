@@ -20,37 +20,32 @@ feature_row:
               .k8s, docker-compose <- CKAD <br> 
               .Redis, Kafka."
   - alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: ".Pandas, Tensorflow Serving\
-              .MinIO, Airflow, ELK, Grafana\
+    title: "Data engineering"
+    excerpt: ".Pandas, Tensorflow Serving<br>
+              .MinIO, Airflow, ELK, Grafana<br>
               .사내 Data Science - Advanced"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - alt: "DB"
+    title: "Data engineering"
+    excerpt: ".mongoDB<br>
+              .ElasticSearch<br>
+              .SQL(oracle, mssql)<br>"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -60,7 +55,10 @@ feature_row4:
 - Kubernetes cluster 환경 기반 데이터 파이프라인 플랫폼 개발 및   
 제조센터내 설비로그관련 데이터파이프라인 개발과 데이터엔지니어링 업무를 하고 있습니다.
 - MLOps에 관심이 있습니다.
-
+<br>
+<br>
+<br>
+<br>
 
 {% include feature_row %}
 
