@@ -55,16 +55,14 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-<!-- {% include feature_row id="intro" type="center" %} -->
+{% include feature_row id="intro" type="center" %}
 
-안녕하세요. 저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.   
-능동적으로 일하는 것을 좋아합니다
-<hr/>
+---
 @Main job:
 - Kubernetes cluster 환경 기반 데이터 파이프라인 플랫폼 개발 및   
 제조센터내 설비로그관련 데이터파이프라인 개발과 데이터엔지니어링 업무를 하고 있습니다.
 - MLOps 커리어를 지향합니다. 
-
+---
 
 {% include feature_row %}
 
