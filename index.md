@@ -13,8 +13,6 @@ author_profile: true
 intro: 
   - excerpt: "안녕하세요. 저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.   
   능동적으로 일하는 것을 좋아합니다"
-intro2:
-  - excerpt: 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -57,8 +55,11 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
 
+안녕하세요. 저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.   
+능동적으로 일하는 것을 좋아합니다
+<hr/>
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
