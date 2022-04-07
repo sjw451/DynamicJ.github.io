@@ -11,8 +11,11 @@ author_profile: true
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 # excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: "안녕하세요. 저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.   
-  능동적으로, 주도적으로 일하는 것을 좋아합니다"
+  - excerpt: 안녕하세요. 저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.   
+  능동적으로 일하는 것을 좋아합니다
+    - excerpt: 안녕하세요. 저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.   
+  능동적으로 일하는 것을 좋아합니다
+main_job:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
