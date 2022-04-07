@@ -16,8 +16,8 @@ intro:
 feature_row:
   - alt: "placeholder image 1"
     title: "Micro Service Architecture"
-    excerpt: ".Python, FastAPI, SQLAlchemy  
-.k8s, docker-compose <- CKAD  
+    excerpt: ".Python, FastAPI, SQLAlchemy <br>
+    .k8s, docker-compose <- CKAD  
 .Redis, Kafka  
 ."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
