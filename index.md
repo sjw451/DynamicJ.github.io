@@ -65,7 +65,7 @@ feature_row4:
               -asyncio,subprocess등 멀티프로세싱사용한 동시테스트<br>
               -실시간 운영 데이터수집(csv,xml 등)하여 0.01초대 오차'
 feature_row5:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/fastapi_logo.png
     alt: "placeholder image3"
     title: "<h4>팀 workdiary 데이터 api 개발</h4>"
     excerpt: '-팀 800여명이 매일 작성하는 Confluence workdiary<br>
