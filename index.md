@@ -41,7 +41,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/cakd.JPG
     alt: "placeholder image 2"
-    title: "<h4>k8s 개발환경구축 / 사내 offline환경 이미지 빌드/배포</h4>"
+    title: "<h4>k8s 개발/테스트환경구축 / 사내 offline환경 이미지 빌드/배포</h4>"
     excerpt: 'alpine기반 사내개발package build된 이미지배포<br>  
               [k8s 로컬개발환경 구축](https://sjw451.github.io/sw/vagrant_k8s/)<br>
               CKAD 자격증 취득(22년 1월)'
@@ -51,12 +51,14 @@ feature_row3:
     alt: "데이터 workflow 개발/운영"
     title: "<h4>데이터 workflow 개발/운영</h4>"
     excerpt: '-제조설비데이터 workflow 인 Apache Airflow 개발/운영<br>  
-              -Airflow Connector, Plugin, Hook 등 활용하여 데이터가공/분석 dag 개발<br>
+              -설비로그 데이터가공/분석 dag 개발<br>
+              -kafka, redis, s3, http, grpc, elasticsearch 등 IF위한 connection/hook개발
               -k8s상 안정적 데이터 처리위해 airflow cofig 및 각종 param 검증/tunning'
+              -airflow 부하테스터(rest api), connection 복구 script'
 
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+    alt: "placeholder image2"
     title: "<h4>생산스케줄러 실시간 테스트 비교분석 개발</h4>"
     excerpt: '-실시간 데이터 스케줄링 테스트/비교분석<br>
               -python, pandas pivot, openpyxl, bs3 등 활용 데이터 파싱가공<br>
