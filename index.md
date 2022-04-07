@@ -19,16 +19,16 @@ intro:
               능동적으로 일하는 것을 좋아합니다"
 feature_row:
   - alt: "placeholder image 1"
-    title: "<h1>Micro Service Architecture</h1>"
+    title: "<h4>Micro Service Architecture</h4>"
     excerpt: ".Python, FastAPI, SQLAlchemy <br>
               .k8s, docker-compose <br> 
               .Redis, Kafka."
   - alt: "placeholder image 2"
-    title: "Data engineering"
+    title: "<h3>Data engineering</h3>"
     excerpt: ".Pandas, Tensorflow Serving<br>
               .MinIO, Airflow, ELK, Grafana<br>
               .사내 Data Science - Advanced"
-  - alt: "DB"
+  - alt: "<h2>DB</h2>"
     title: "DB"
     excerpt: ".mongoDB<br>
               .ElasticSearch<br>
@@ -77,7 +77,7 @@ feature_row5:
 - k8s 기반 데이터 파이프라인 서비스 개발/운영 
 - 설비로그 관련  데이터엔지니어링
 - MLOps에 관심이 있습니다.  
-
+</p>
 @skill
 {% include feature_row %}
 
