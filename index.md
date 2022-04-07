@@ -52,8 +52,8 @@ feature_row3:
     title: "<h4>데이터 workflow 개발/운영</h4>"
     excerpt: '-제조설비데이터 workflow 인 Apache Airflow 개발/운영<br>  
               -설비로그 데이터가공/분석 dag 개발<br>
-              -kafka, redis, s3, http, grpc, elasticsearch 등 IF위한 connection/hook개발
-              -k8s상 안정적 데이터 처리위해 airflow cofig 및 각종 param 검증/tunning
+              -kafka, redis, s3, http, grpc, elasticsearch 등 IF위한 connection/hook개발<br>
+              -k8s상 안정적 데이터 처리위해 airflow cofig 및 각종 param 검증/tunning<br>
               -airflow 부하테스터(rest api), connection 복구 script'
 
 feature_row4:
