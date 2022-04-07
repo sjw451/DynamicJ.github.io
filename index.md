@@ -14,8 +14,7 @@ intro:
   - excerpt: "안녕하세요. 저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.   
   능동적으로 일하는 것을 좋아합니다"
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - alt: "placeholder image 1"
     title: "Micro Service Architecture"
     excerpt: ".Python, FastAPI, SQLAlchemy  
 .k8s, docker-compose <- CKAD  
