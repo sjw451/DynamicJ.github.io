@@ -1,7 +1,6 @@
 ---
 layout: home
 author_profile: true
-class: wide
 # header:
 #   overlay_color: "#000"
 #   overlay_filter: "0.5"
@@ -59,7 +58,7 @@ feature_row4:
 {% include feature_row id="intro" type="center" %}
 
 
-@Main job:
+@MAIN JOB:
 - k8s 기반 데이터 파이프라인 서비스 개발/운영 
 - 설비로그 관련  데이터엔지니어링
 - MLOps에 관심이 있습니다.
