@@ -46,10 +46,12 @@ feature_row2:
               -CKAD 자격증 취득(22년 1월)'
 
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+  - image_path: /assets/images/airflow_logo.png
+    alt: "데이터 workflow 개발/운영"
+    title: "데이터 workflow 개발/운영"
+    excerpt: '-제조설비데이터 workflow 인 Apache Airflow 개발/운영<br>  
+              -Airflow Connector, Plugin, Hook 등 활용하여 데이터가공/분석 dag 개발<br>
+              -k8s상 안정적 데이터 처리위해 airflow cofig 및 각종 param 검증/tunning'
 
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
