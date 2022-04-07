@@ -65,6 +65,7 @@ feature_row4:
 제조센터내 설비로그관련 데이터파이프라인 개발과 데이터엔지니어링 업무를 하고 있습니다.
 - MLOps 커리어를 지향합니다. 
 
+
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
