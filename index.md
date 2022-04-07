@@ -42,7 +42,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "k8s 개발환경구축 / 사내 offline환경 이미지 빌드/배포"
     excerpt: '-alpine기반 사내개발package build된 이미지배포<br>  
-              -[k8s 로컬개발환경 구축]({% post_url 2022-04-06-vagrant_k8s %})<br>
+              -[k8s 로컬개발환경 구축](https://sjw451.github.io/sw/vagrant_k8s/)<br>
               -CKAD 자격증 취득(22년 1월)'
 
 feature_row3:
@@ -56,8 +56,19 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    title: "생산스케줄러 실시간 테스트 비교분석 개발"
+    excerpt: '-실시간 데이터 스케줄러- 운영/개발 버전 테스트/비교분석
+              -python, pandas pivot, openpyxl, bs3 등 활용 데이터 파싱가공'
+              -asyncio,subprocess등 멀티프로세싱사용한 동시테스트
+              -실시간 운영 데이터수집(csv,xml 등)하여 0.01초대 오차'
+feature_row5:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image3"
+    title: "팀 workdiary 데이터 api 개발"
+    excerpt: '-팀 800여명이 매일 작성하는 Confluence workdiary
+              -부서간 협업강화를 위해 html 크롤링 및 API를 통한 제공'
+              -사람
+              -실시간 운영 데이터수집(csv,xml 등)하여 0.01초대 오차'
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -70,7 +81,7 @@ feature_row4:
 <br>
 <br>
 <br>
-<br>
+<br>  
 @SKILL:
 {% include feature_row %}
 
