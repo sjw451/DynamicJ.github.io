@@ -79,9 +79,9 @@ feature_row5:
 - k8s 기반 데이터 파이프라인 서비스 개발/운영 
 - 설비로그 관련  데이터엔지니어링
 - MLOps에 관심이 있습니다. 
-  - #### 삼성전자 DS부문 SW Engineer(2016~)
-  - #### Samsung SW Certificate 'Professional'
-  - #### DS Data Science(DS2) 'Advanced'
+  - ##### 삼성전자 DS부문 SW Engineer(2016~)
+  - ##### Samsung SW Certificate 'Professional'
+  - ##### DS Data Science(DS2) 'Advanced'
 <br>
 <br>
 <br>
