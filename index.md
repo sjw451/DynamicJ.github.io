@@ -57,17 +57,17 @@ feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "생산스케줄러 실시간 테스트 비교분석 개발"
-    excerpt: '-실시간 데이터 스케줄러- 운영/개발 버전 테스트/비교분석
-              -python, pandas pivot, openpyxl, bs3 등 활용 데이터 파싱가공'
-              -asyncio,subprocess등 멀티프로세싱사용한 동시테스트
+    excerpt: '-실시간 데이터 스케줄러- 운영/개발 버전 테스트/비교분석<br>
+              -python, pandas pivot, openpyxl, bs3 등 활용 데이터 파싱가공<br>'
+              -asyncio,subprocess등 멀티프로세싱사용한 동시테스트<br>
               -실시간 운영 데이터수집(csv,xml 등)하여 0.01초대 오차'
 feature_row5:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image3"
     title: "팀 workdiary 데이터 api 개발"
-    excerpt: '-팀 800여명이 매일 작성하는 Confluence workdiary
-              -부서간 협업강화를 위해 html 크롤링 및 API를 통한 제공'
-              -사람
+    excerpt: '-팀 800여명이 매일 작성하는 Confluence workdiary<br>
+              -부서간 협업강화를 위해 html 크롤링 및 API를 통한 제공<br>'
+              -사람<br>
               -실시간 운영 데이터수집(csv,xml 등)하여 0.01초대 오차'
 ---
 
