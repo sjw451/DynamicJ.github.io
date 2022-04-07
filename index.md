@@ -28,13 +28,13 @@ feature_row:
     excerpt: ".Pandas, Tensorflow Serving<br>
               .MinIO, Airflow, ELK, Grafana<br>
               .사내 Data Science - Advanced"
-  - alt: "<h4>DB</h4>"
+  - alt: "DB"
     title: "<h4>DB</h4>"
     excerpt: ".mongoDB<br>
               .ElasticSearch<br>
               .SQL(oracle, mssql)"
-  - alt: "<h4>etc</h4>"
-    title: "etc"
+  - alt: "etc"
+    title: "<h4>etc</h4>"
     excerpt: ".linux<br>
               .jira, confluence, bitbucket<br>
               .spotfire"
@@ -44,7 +44,7 @@ feature_row2:
     title: "<h4>k8s 개발/테스트환경구축</h4>"
     excerpt: '폐쇄망내 alpine기반 사내개발package build된 docker image빌드<br>  
               [k8s 로컬개발환경 구축](https://sjw451.github.io/sw/vagrant_k8s/)<br>
-              Certified kubernetes administer ('22.1)'
+              Certified kubernetes administer (22.1)'
 
 feature_row3:
   - image_path: /assets/images/airflow_logo.png
@@ -70,7 +70,7 @@ feature_row5:
     title: "<h4>팀 workdiary 데이터 api 개발</h4>"
     excerpt: '-팀 800여명이 매일 작성하는 Confluence workdiary<br>
               -부서간 협업강화를 위해 html 크롤링 및 API를 통한 제공(json)<br>
-              -confluence 내 키워드 검색 제공<br>'
+              -confluence 내 키워드 검색 제공'
 ---
 
 {% include feature_row id="intro" type="center" %}
