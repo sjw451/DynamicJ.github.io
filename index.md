@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 author_profile: true
 # header:
 #   overlay_color: "#000"
@@ -18,7 +18,7 @@ feature_row:
   - alt: "placeholder image 1"
     title: "Micro Service Architecture"
     excerpt: ".Python, FastAPI, SQLAlchemy <br>
-              .k8s, docker-compose <- CKAD <br> 
+              .k8s, docker-compose <br> 
               .Redis, Kafka."
   - alt: "placeholder image 2"
     title: "Data engineering"
@@ -38,8 +38,8 @@ feature_row:
 feature_row2:
   - alt: "placeholder image 2"
     title: "k8s 개발환경구축 / 사내 offline환경 이미지 빌드/배포"
-    excerpt: '-alpine기반 사내개발package build된 이미지배포  
-              -k8s 로컬개발환경 구축(vagrant, virtual box, 각종 helmchart 배포)  
+    excerpt: '-alpine기반 사내개발package build된 이미지배포<br>  
+              -k8s 로컬개발환경 구축(vagrant, virtual box, 각종 helmchart 배포)<br>
               -CKAD 자격증 취득(22년 1월)'
 
 feature_row3:
