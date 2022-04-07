@@ -1,17 +1,17 @@
 ---
 layout: splash
 author_profile: true
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: ""안녕하세요.<br> 
-              저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.<br>   
-              능동적으로 일하는 것을 좋아합니다"."
+# header:
+#   overlay_color: "#000"
+#   overlay_filter: "0.5"
+#   overlay_image: /assets/images/unsplash-image-1.jpg
+#   actions:
+#     - label: "Download"
+#       url: "https://github.com/mmistakes/minimal-mistakes/"
+#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+# excerpt: ""안녕하세요.<br> 
+#               저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.<br>   
+#               능동적으로 일하는 것을 좋아합니다"."
 intro: 
   - excerpt: "안녕하세요.<br> 
               저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.<br>   
