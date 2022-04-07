@@ -41,7 +41,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/cakd.JPG
     alt: "placeholder image 2"
-    title: "<h4>k8s 개발/테스트환경구축 / 사내 offline환경 이미지 빌드/배포</h4>"
+    title: "<h4>k8s 개발/테스트환경구축/사내 offline환경 이미지 빌드/배포</h4>"
     excerpt: 'alpine기반 사내개발package build된 이미지배포<br>  
               [k8s 로컬개발환경 구축](https://sjw451.github.io/sw/vagrant_k8s/)<br>
               CKAD 자격증 취득(22년 1월)'
@@ -59,7 +59,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image2"
-    title: 생산스케줄러 실시간 테스트 비교분석 개발 
+    title: "<h4>생산스케줄러 실시간 테스트 비교분석 개발</h4>" 
     excerpt: '-실시간 데이터 스케줄링 테스트/비교분석<br>
               -python, pandas pivot, openpyxl, bs3 등 활용 데이터 파싱가공<br>
               -asyncio,subprocess등 멀티프로세싱사용한 동시테스트<br>
