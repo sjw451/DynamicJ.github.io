@@ -42,7 +42,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "k8s 개발환경구축 / 사내 offline환경 이미지 빌드/배포"
     excerpt: '-alpine기반 사내개발package build된 이미지배포<br>  
-              -k8s 로컬개발환경 구축(vagrant, virtual box, 각종 helmchart 배포)[]{% post_url  %}<br>
+              -[k8s 로컬개발환경 구축]({% post_url 2022-04-06-vagrant_k8s %})<br>
               -CKAD 자격증 취득(22년 1월)'
 
 feature_row3:
