@@ -36,7 +36,7 @@ feature_row:
               .jira, confluence, bitbucket<br>
               .spotfire"
 feature_row2:
-  - image_path: /assets/images/ckad.jpg
+  - image_path: /assets/images/cakd.jpg
     alt: "placeholder image 2"
     title: "k8s 개발환경구축 / 사내 offline환경 이미지 빌드/배포"
     excerpt: '-alpine기반 사내개발package build된 이미지배포<br>  
