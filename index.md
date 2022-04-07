@@ -29,7 +29,7 @@ feature_row:
               .MinIO, Airflow, ELK, Grafana<br>
               .사내 Data Science - Advanced"
   - alt: "<h4>DB</h4>"
-    title: "DB"
+    title: "<h4>DB</h4>"
     excerpt: ".mongoDB<br>
               .ElasticSearch<br>
               .SQL(oracle, mssql)"
@@ -79,7 +79,7 @@ feature_row5:
 - MLOps에 관심이 있습니다.  
   
   
-  
+
 @skill
 {% include feature_row %}
 
