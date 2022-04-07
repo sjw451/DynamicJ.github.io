@@ -59,7 +59,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image2"
-    title: "<h4>[생산스케줄러 실시간 테스트 비교분석 개발](</h4>"
+    title: "<h4>[생산스케줄러 실시간 테스트 비교분석 개발](https://sjw451.github.io/sw/replay-test/)</h4>"
     excerpt: '-실시간 데이터 스케줄링 테스트/비교분석<br>
               -python, pandas pivot, openpyxl, bs3 등 활용 데이터 파싱가공<br>
               -asyncio,subprocess등 멀티프로세싱사용한 동시테스트<br>
@@ -83,7 +83,8 @@ feature_row5:
 <br>
 <br>
 
-@skill
+@skill  
+
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
