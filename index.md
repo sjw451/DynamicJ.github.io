@@ -73,12 +73,10 @@ feature_row5:
 {% include feature_row id="intro" type="center" %}
 
 
-@MAIN JOB:
 - k8s 기반 데이터 파이프라인 서비스 개발/운영 
 - 설비로그 관련  데이터엔지니어링
 - MLOps에 관심이 있습니다.  
 
-@SKILL:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
