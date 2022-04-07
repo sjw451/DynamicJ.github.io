@@ -53,13 +53,13 @@ feature_row3:
     excerpt: '-제조설비데이터 workflow 인 Apache Airflow 개발/운영<br>  
               -설비로그 데이터가공/분석 dag 개발<br>
               -kafka, redis, s3, http, grpc, elasticsearch 등 IF위한 connection/hook개발
-              -k8s상 안정적 데이터 처리위해 airflow cofig 및 각종 param 검증/tunning'
+              -k8s상 안정적 데이터 처리위해 airflow cofig 및 각종 param 검증/tunning
               -airflow 부하테스터(rest api), connection 복구 script'
 
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image2"
-    title: "<h4>생산스케줄러 실시간 테스트 비교분석 개발</h4>"
+    title: "<h4>[생산스케줄러 실시간 테스트 비교분석 개발](</h4>"
     excerpt: '-실시간 데이터 스케줄링 테스트/비교분석<br>
               -python, pandas pivot, openpyxl, bs3 등 활용 데이터 파싱가공<br>
               -asyncio,subprocess등 멀티프로세싱사용한 동시테스트<br>
