@@ -41,18 +41,18 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/cakd.JPG
     alt: "placeholder image 2"
-    title: "<h4>k8s 개발/테스트환경구축/사내 offline환경 이미지 빌드/배포</h4>"
-    excerpt: 'alpine기반 사내개발package build된 이미지배포<br>  
+    title: "<h4>k8s 개발/테스트환경구축</h4>"
+    excerpt: '폐쇄망내 alpine기반 사내개발package build된 docker image빌드<br>  
               [k8s 로컬개발환경 구축](https://sjw451.github.io/sw/vagrant_k8s/)<br>
-              CKAD 자격증 취득(22년 1월)'
+              Certified kubernetes administer ('22.1)'
 
 feature_row3:
   - image_path: /assets/images/airflow_logo.png
-    alt: "데이터 workflow 개발/운영"
+    alt: "Airflow 개발/운영"
     title: "<h4>데이터 workflow 개발/운영</h4>"
     excerpt: '-제조설비데이터 workflow 인 Apache Airflow 개발/운영<br>  
               -설비로그 데이터가공/분석 dag 개발<br>
-              -kafka, redis, s3, http, grpc, elasticsearch 등 IF위한 connection/hook개발<br>
+              -kafka, redis, s3, http, grpc, elasticsearch, mongodb 등 IF위한 connection/hook개발<br>
               -k8s상 안정적 데이터 처리위해 airflow cofig 및 각종 param 검증/tunning<br>
               -airflow 부하테스터(rest api), connection 복구 script'
 
@@ -78,7 +78,10 @@ feature_row5:
 @role
 - k8s 기반 데이터 파이프라인 서비스 개발/운영 
 - 설비로그 관련  데이터엔지니어링
-- MLOps에 관심이 있습니다.  
+- MLOps에 관심이 있습니다. 
+  - 삼성전자 DS부문 SW Engineer('2016~)
+  - Samsung SW Certificate 'Professional'
+  - DS Data Science(DS2) 'Advanced'
 <br>
 <br>
 <br>
