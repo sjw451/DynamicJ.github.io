@@ -69,6 +69,15 @@ feature_row5:
     excerpt: '-팀 800여명이 매일 작성하는 Confluence workdiary<br>
               -부서간 협업강화를 위해 html 크롤링 및 API를 통한 제공(json)<br>
               -confluence 내 키워드 검색 제공'
+
+feature_row6:
+  - image_path: /assets/images/fastapi_logo.png
+    alt: "placeholder image6"
+    title: "<h4>그외</h4>"
+    excerpt: '-현업개발CNN로직 refactoring<br>
+                -serving위해 tf2.0 패키지전환<br>, 
+                -saved_model->s3->serving<br>
+              -grafana 활용, alert api개발 '
 ---
 
 {% include feature_row id="intro" type="center" %}
