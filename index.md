@@ -52,7 +52,7 @@ feature_row3:
     title: "<h4>데이터 workflow 개발/운영</h4>"
     excerpt: '-[제조설비데이터 workflow로 Apache Airflow 구축](https://sjw451.github.io/sw/airflow_setup/)<br>  
               -[airflow 운영](https://sjw451.github.io/sw/airflow/)<br>
-              -설비로그 데이터가공/분석 dag 개발'
+              -설비로그 데이터가공/분석 dag 개발<br>'
 
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
