@@ -55,10 +55,10 @@ feature_row3:
               -설비로그 데이터가공/분석 dag 개발<br>'
 
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/ezDFS.JPG
     alt: "placeholder image2"
     title: "<h4>생산스케줄러 실시간 테스트 비교분석 개발</h4>" 
-    excerpt: '-실시간 데이터 스케줄링 테스트/비교분석<br>
+    excerpt: '-[실시간 데이터 스케줄링 테스트/비교분석](https://sjw451.github.io/sw/replay-test/)<br>
               -python, pandas pivot, openpyxl, bs3 등 활용 데이터 파싱가공<br>
               -asyncio,subprocess등 멀티프로세싱사용한 동시테스트<br>
               -실시간 운영 데이터수집(csv,xml 등)하여 0.01초대 오차'
