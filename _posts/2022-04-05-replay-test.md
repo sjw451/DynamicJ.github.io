@@ -15,19 +15,33 @@ toc_label: "contents"
 ---
 
 
-실시간 생산 스케줄링 시스템 테스트
+실시간 생산 스케줄링 로직 비교테스트
 =================================================
 
-특징
+배경
 ----------
-  - 실시간 production 환경 반영
-  - data input : 
-    - DB read, csv(ftp), global parameter, parameter 등...
-  - data output : 
-    - db wr, csv
-  - 부모/자식룰의 dependency 파일 동기화
-  - 운영 룰/개발 룰 동시 실행(시점차이 5분~10분 ->0.001초대로 줄임.)
-  - 서버별, 회차별 다른 파라미터로 자동 구동/비교/report
+  - 실시간 생산 스케줄링 시스템에 3000여개의 스케줄링 로직이 동작
+  - 로직 패치시 기존 생산 장애에 영향을 주지않아야함.
+  - 실시간 생산 data input을 기반으로 운영룰/개발룰의 realtime replay테스트필요.
+
+고려사항
+--------
+  - 룰 소스의 구성 : java(로직), xml(기준정보)
+    - xml에서 각 룰간 hierarchy정보와 필요한 input정보 등 수집
+  - 스케줄링 룰(airflow dag같은 개념)의 data input 종류: 
+    - DB read, csv(ftp), global parameter, input parameter 등...
+    - DR환경에서 data 동기화(ftp), ftpManager를 개발하여 필요한 파일시스템 전체 동기화.
+  - data output 종류: 
+    - db wr, csv, 자체log, tibco rv
+  - 룰안의 룰(child룰)도 비교 필요. 
+    - xml의 hierarchy 정보 바탕으로 재귀적으로 접근 결과log 파싱/비교
+  - 운영 룰/개발 룰 동시 실행  
+    - mulitiprocess로 구동. 시점차이 5분~10분에서 0.001초대로
+  - 한 개의 스케줄링 로직이 라인별, 구동회차별 다른 파라미터 사용 -> 모든 상황별 테스트결과 반영. 
+  - sql 쿼리블록- 악성쿼리의 경우 
+    - 검증로직 추가
+
+
 
 
 <!-- Architecture
