@@ -63,7 +63,7 @@ feature_row3:
     title: "<h4>데이터 workflow 개발/운영</h4>"
     excerpt: '-[제조설비데이터 workflow로 Apache Airflow 구축](https://sjw451.github.io/sw/airflow_setup/)<br>  
               -[airflow 운영](https://sjw451.github.io/sw/airflow/)<br>
-              -설비로그 데이터가공/분석 dag 개발<br>'
+              -설비로그 데이터가공/분석 dag 개발'
 
 feature_row4:
   - image_path: /assets/images/ezDFS.JPG
@@ -105,5 +105,7 @@ feature_row6:
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="right" %}
+
+{% include feature_row id="feature_row6" type="left" %}
 
 <!-- "<h4><a href="https://sjw451.github.io/sw/replay-test/"> 생산스케줄러 실시간 테스트 비교분석 개발 </a></h4>" -->
