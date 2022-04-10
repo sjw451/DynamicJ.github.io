@@ -19,7 +19,7 @@ intro:
               능동적으로 일하는 것을 좋아합니다<br><br>"
 feature_row:
   - alt: "placeholder image 1"
-    title: "<h4>Main Job</h4>"
+    title: "<h4></h4>"
     excerpt: ".k8s 기반 데이터 플랫폼 개발/운영<br> 
               .설비로그 관련  데이터엔지니어링<br>
               .MLOps에 관심이 있습니다." 
@@ -93,9 +93,9 @@ feature_row6:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
+Main Job
 {% include feature_row %}
-
+Skill
 {% include feature_row id="feature_row1" %}
 
 {% include feature_row id="feature_row2" type="left" %}
