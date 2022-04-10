@@ -81,8 +81,12 @@ feature_row6:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-@role
+<br>
+<br>
+# @role
+<br>
+<br>
+<br>
 - k8s 기반 데이터 파이프라인 서비스 개발/운영 
 - 설비로그 관련  데이터엔지니어링
 - MLOps에 관심이 있습니다. 
@@ -92,8 +96,9 @@ feature_row6:
 <br>
 <br>
 <br>
+<br>
 
-@skill  
+# @skill  
 
 {% include feature_row %}
 
