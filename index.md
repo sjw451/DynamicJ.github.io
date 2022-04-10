@@ -14,9 +14,9 @@ class: wide
 #               저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.<br>   
 #               능동적으로 일하는 것을 좋아합니다"."
 intro: 
-  - excerpt: "안녕하세요.<br> 
+  - excerpt: "<br><br>안녕하세요.<br> 
               저는 배우기를 좋아하고 열정적으로 일하고 싶어하는 개발자입니다.<br>   
-              능동적으로 일하는 것을 좋아합니다"
+              능동적으로 일하는 것을 좋아합니다<br><br>"
 feature_row:
   - alt: "placeholder image 1"
     title: "<h4>Micro Service Architecture</h4>"
