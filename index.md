@@ -93,9 +93,9 @@ feature_row6:
 ---
 
 {% include feature_row id="intro" type="center" %}
-Main Job
+# Main Job
 {% include feature_row %}
-Skill
+# Skill
 {% include feature_row id="feature_row1" %}
 
 {% include feature_row id="feature_row2" type="left" %}
