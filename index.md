@@ -19,6 +19,17 @@ intro:
               능동적으로 일하는 것을 좋아합니다<br><br>"
 feature_row:
   - alt: "placeholder image 1"
+    title: "<h4>Main Job</h4>"
+    excerpt: ".k8s 기반 데이터 플랫폼 개발/운영<br> 
+              .설비로그 관련  데이터엔지니어링<br>
+              .MLOps에 관심이 있습니다." 
+  - alt: "placeholder image 2"
+    title: "<h4></h4>"
+    excerpt: ".삼성전자 DS부문 SW Engineer(2016~)<br>
+              .Samsung SW Certificate 'Professional'<br>
+              .DS Data Science(DS2) 'Advanced'"
+feature_row1:
+  - alt: "placeholder image 1"
     title: "<h4>Micro Service Architecture</h4>"
     excerpt: ".Python, FastAPI, SQLAlchemy <br>
               .k8s, docker-compose <br> 
@@ -62,6 +73,7 @@ feature_row4:
               -python, pandas pivot, openpyxl, bs3 등 활용 데이터 파싱가공<br>
               -asyncio,subprocess등 멀티프로세싱사용한 동시테스트<br>
               -실시간 운영 데이터수집(csv,xml 등)하여 0.01초대 오차'
+
 feature_row5:
   - image_path: /assets/images/fastapi_logo.png
     alt: "placeholder image3"
@@ -81,26 +93,10 @@ feature_row6:
 ---
 
 {% include feature_row id="intro" type="center" %}
-<br>
-<br>
-# @role
-<br>
-<br>
-<br>
-- k8s 기반 데이터 파이프라인 서비스 개발/운영 
-- 설비로그 관련  데이터엔지니어링
-- MLOps에 관심이 있습니다. 
-  - ###### 삼성전자 DS부문 SW Engineer(2016~)
-  - ###### Samsung SW Certificate 'Professional'
-  - ###### DS Data Science(DS2) 'Advanced'
-<br>
-<br>
-<br>
-<br>
-
-# @skill  
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
